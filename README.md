@@ -6,6 +6,6 @@ An awesome octopus based dish for some Iberian flavour. Contains octopus, sausag
 
 ### Ingredient Types
 
-- Mollusc
-- Pork
-- Tuber
+- Mollusc (*seafood*)
+- Pork (*red meat*)
+- Tuber (*vegetable*)
