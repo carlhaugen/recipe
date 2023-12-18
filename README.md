@@ -1,11 +1,6 @@
-### This is a LOCAL change :)
+# Recipe for Octopus Stirfry
 
-# Octopus Stirfry
-
-Line 2 changed remotely
+### Brief Description
 
 An awesome octopus based dish for some Iberian flavour. Contains octopus, sausage, and potatoes.
 
-Last line changed locally
-
-### This is a REMOTE change :O
