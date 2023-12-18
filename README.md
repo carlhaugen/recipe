@@ -9,3 +9,7 @@ An awesome octopus based dish for some Iberian flavour. Contains octopus, sausag
 - Mollusc (*seafood*)
 - Pork (*red meat*)
 - Tuber (*vegetable*)
+
+### Images
+
+![Octopus & Chorizo](recipe.jpg)
